@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom"
 
 const Submited = () => {
@@ -13,8 +12,7 @@ const Submited = () => {
           />
         </div>
         <h2>
-          Obriagdo pelo preenchimento, forneça este questionário ao
-          seu agente.
+          Obrigado pelo preenchimento, forneça este questionário ao seu agente.
         </h2>
         <Link to="/" className="border px-3 py-2 mt-12">
           Voltar à página inicial
